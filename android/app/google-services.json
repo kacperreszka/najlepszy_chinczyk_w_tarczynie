@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "217441339158",
+    "project_id": "chinczyk-tarczyn",
+    "storage_bucket": "chinczyk-tarczyn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217441339158:android:f9aaa66cd5ea4e2309f237",
+        "android_client_info": {
+          "package_name": "com.kacperreszka.najlepszy_chinczyk_w_tarczynie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217441339158-rogqkteel8h10kobvacubmkes7pk188a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdU-VJywV6HAUmBf0KHW_ZlrpW6bHCFOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217441339158-rogqkteel8h10kobvacubmkes7pk188a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

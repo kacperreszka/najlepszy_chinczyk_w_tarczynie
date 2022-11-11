@@ -1,4 +1,4 @@
-package com.example.najlepszy_chinczyk_w_tarczynie
+package com.kacperreszka.najlepszy_chinczyk_w_tarczynie
 
 import io.flutter.embedding.android.FlutterActivity
 

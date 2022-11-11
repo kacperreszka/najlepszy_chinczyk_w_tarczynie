@@ -7,7 +7,7 @@ project(runner LANGUAGES CXX)
 set(BINARY_NAME "najlepszy_chinczyk_w_tarczynie")
 # The unique GTK application identifier for this application. See:
 # https://wiki.gnome.org/HowDoI/ChooseApplicationID
-set(APPLICATION_ID "com.example.najlepszy_chinczyk_w_tarczynie")
+set(APPLICATION_ID "com.kacperreszka.najlepszy_chinczyk_w_tarczynie")
 
 # Explicitly opt in to modern CMake behaviors to avoid warnings with recent
 # versions of CMake.

@@ -8,7 +8,7 @@
 PRODUCT_NAME = najlepszy_chinczyk_w_tarczynie
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = com.example.najlepszyChinczykWTarczynie
+PRODUCT_BUNDLE_IDENTIFIER = com.kacperreszka.najlepszyChinczykWTarczynie
 
 // The copyright displayed in application information
-PRODUCT_COPYRIGHT = Copyright © 2022 com.example. All rights reserved.
+PRODUCT_COPYRIGHT = Copyright © 2022 com.kacperreszka. All rights reserved.
