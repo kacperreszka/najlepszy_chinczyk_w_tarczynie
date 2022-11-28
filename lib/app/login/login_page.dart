@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:firebase_core/firebase_core.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 
 class LoginPage extends StatefulWidget {
@@ -46,7 +45,7 @@ class _LoginPageState extends State<LoginPage> {
                 height: 20,
               ),
               Text(errorMessage),
-              SizedBox(
+              const SizedBox(
                 height: 20,
               ),
               ElevatedButton(
