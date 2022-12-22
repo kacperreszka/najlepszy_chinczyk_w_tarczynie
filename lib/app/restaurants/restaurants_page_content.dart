@@ -1,7 +1,5 @@
-import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-
 import 'cubit/restaurants_cubit.dart';
 
 class RestaurantsPageContent extends StatelessWidget {
@@ -49,13 +47,6 @@ class RestaurantsPageContent extends StatelessWidget {
                 body: Text('Nie ma żadnych restauracji'),
               ),
             ],
-          );
-
-          return StreamBuilder<QuerySnapshot<Map<String, dynamic>>>(
-            stream: FirebaseFirestore.instance
-                .collection('restaurants')
-                .snapshots(),
-            builder: (context, snapshot) {},
           );
         },
       ),
